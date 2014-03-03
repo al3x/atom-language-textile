@@ -1,0 +1,31 @@
+'.text.html.textile':
+  'Acronym':
+    'prefix': 'acr'
+    'body': '${1:ABC}(${2:Always Be Closing})'
+  'Block Quote':
+    'prefix': 'bq'
+    'body': 'bq. ${1:A quote...}\n\n$0'
+  'Heading 1':
+    'prefix': 'h1'
+    'body': 'h1. ${1:Text...}\n\n$0'
+  'Heading 2':
+    'prefix': 'h2'
+    'body': 'h2. ${1:Text...}\n\n$0'
+  'Heading 3':
+    'prefix': 'h3'
+    'body': 'h3. ${1:Text...}\n\n$0'
+  'Heading 4':
+    'prefix': 'h4'
+    'body': 'h4. ${1:Text...}\n\n$0'
+  'Heading 5':
+    'prefix': 'h5'
+    'body': 'h5. ${1:Text...}\n\n$0'
+  'Heading 6':
+    'prefix': 'h6'
+    'body': 'h6. ${1:Text...}\n\n$0'
+  'Image':
+    'prefix': 'img'
+    'body': '!${1:http://site.com/image}(${2:Title})!'
+  'Linked Image':
+    'prefix': 'linkimg'
+    'body': '!${1:http://site.com/image}(${2:Title})!:${3:http://linkedsite.com}'

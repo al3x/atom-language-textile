@@ -1,0 +1,13 @@
+{
+  "name": "language-textile",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Textile package for Atom",
+  "repository": "https://github.com/al3x/atom-language-textile",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
